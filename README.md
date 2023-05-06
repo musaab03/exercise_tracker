@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to the Exercise Tracker 👋</h1>
 
-> Full Stack app which tracks allows a user to track their exercises, made for one of the projects in the Back End Development and APIs freeCodeCamp course
+> Full Stack app which allows a user to track their exercises, made for one of the projects in the Back End Development and APIs freeCodeCamp course
 
 ### ✨ [Demo](https://build-an-exercise-tracker.mu668.repl.co/)
 
